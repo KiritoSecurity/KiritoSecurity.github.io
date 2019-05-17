@@ -1,9 +1,7 @@
 <head>
 <body bgcolor="black">
 <center>
-<title>Kirito1337 RePo </title>
-<link href="https://raw.githubusercontent.com/B0RU70/B0RU70.github.io/master/img/alfa.png" rel="icon" type="image/x-icon"/>
-	<style type='text/css'>
+<title>Kirito1337 RePo </title>	<style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 html {
     background: #000000;
